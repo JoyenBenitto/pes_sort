@@ -26,6 +26,9 @@ gtkwave dump.vcd
 ```
 ## Waveforms
 ![Waveform](image.png)
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/d8c3d1c8-c8ea-41e4-a3bf-16501652f895)
+
+> Open Testbech.v to get more info on the vectors used in the test
 
 ## RTL
 ![Rtl diag](image-1.png)
