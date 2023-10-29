@@ -31,6 +31,8 @@ gtkwave dump.vcd
 ![Rtl diag](image-1.png)
 
 ## Stats
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/a6c35be0-04dd-4254-b79f-5299f644babf)
+
 ![Alt text](image-2.png)
 
 > all the relevant files for replicating this design are available in this repo and the synthesis was carried our using Yosys design suite and skywater130
