@@ -4,7 +4,11 @@ Systolic Array Matrix Multiplier implementation for ASIC Course by [Kunal Ghosh]
 
 This projest is a bubble sort accelerator which can be tightly coupled in the SoC for enhancing performance in big data and DBMS related workload.
 
-# Synthesis on Yosys for Gate level simulation (GLS)
+### Understanding hardware accelerators
+Hardware accelerators are purpose-built designs that accompany a processor for accelerating a specific function or workload (also sometimes called “co-processors”). Since processors are designed to handle a wide range of workloads, processor architectures are rarely the most optimal for specific functions or workloads.
+having a custom hardware as the sorter we have built in this repo can significanly bring down the cycle count as sorting involves a lot of branch instruction which involves lot of load store (45% of the algo was load store) analyzed using <u>_codasip instruction profiler_</u>.
+
+## Synthesis on Yosys for Gate level simulation (GLS)
 ```bash
 read_liberty -lib ../sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog mkPes_Sort.v
