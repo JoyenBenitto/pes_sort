@@ -1,5 +1,7 @@
 # pes_sort
 
+Systolic Array Matrix Multiplier implementation for ASIC Course by [Kunal Ghosh](https://github.com/kunalg123/) of the [VSD Group](https://www.vlsisystemdesign.com/).
+
 This projest is a bubble sort accelerator which can be tightly coupled in the SoC for enhancing performance in big data and DBMS related workload.
 
 # Synthesis on Yosys for Gate level simulation (GLS)
@@ -23,3 +25,5 @@ gtkwave dump.vcd
 
 ## Stats
 ![Alt text](image-2.png)
+
+> all the relevant files for replicating this design are available in this repo and the synthesis was carried our using Yosys design suite and skywater130
