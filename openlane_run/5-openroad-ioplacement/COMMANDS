@@ -1,0 +1,1 @@
+openroad -exit -no_splash -metrics /content/openlane_run/5-openroad-ioplacement/or_metrics_out.json /content/openlane/scripts/openroad/ioplacer.tcl

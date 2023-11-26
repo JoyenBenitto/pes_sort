@@ -1,0 +1,83 @@
+Reading OpenROAD database at '/content/openlane_run/5-openroad-ioplacement/sort.odb'…
+Reading library file at '/content/openlane_run/tmp/efcb71ff3eba47aaaf80056ae7b936b7.lib'…
+Reading design constraints file at '/content/openlane/scripts/base.sdc'…
+[WARNING STA-0337] port 'clk' not found.
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[WARNING STA-0337] port 'clk' not found.
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[WARNING STA-0559] transition time can not be specified for virtual clocks.
+[INFO] Setting timing derate to: 5%
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__a2111oi_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__a21boi_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__and2_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__buf_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__clkdlybuf4s15_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__clkdlybuf4s18_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__fa_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_bleeder_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_12' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_3' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_6' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso0n_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso0p_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso1n_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso1p_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputisolatch_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrckapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__mux4_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__o21ai_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__o311ai_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__or2_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__probe_p_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__probec_p_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_4' not found.
+[INFO] Setting global connections...
+[INFO PDN-0001] Inserting grid: stdcell_grid
+[INFO PSM-0076] Setting metal node density to be standard cell height times 5.
+[INFO PSM-0031] Number of PDN nodes on net VPWR = 8595.
+[INFO PSM-0064] Number of voltage sources = 224.
+[INFO PSM-0040] All PDN stripes on net VPWR are connected.
+[INFO PSM-0076] Setting metal node density to be standard cell height times 5.
+[INFO PSM-0031] Number of PDN nodes on net VGND = 8672.
+[INFO PSM-0064] Number of voltage sources = 224.
+[INFO PSM-0040] All PDN stripes on net VGND are connected.
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+Writing OpenROAD database to '/content/openlane_run/6-openroad-generatepdn/sort.odb'…
+Writing netlist to '/content/openlane_run/6-openroad-generatepdn/sort.nl.v'…
+Writing powered netlist to '/content/openlane_run/6-openroad-generatepdn/sort.pnl.v'…
+Writing layout to '/content/openlane_run/6-openroad-generatepdn/sort.def'…
+Writing timing constraints to '/content/openlane_run/6-openroad-generatepdn/sort.sdc'…
