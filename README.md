@@ -43,28 +43,38 @@ gtkwave dump.vcd
 ## Floorplan
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/c6cd4cb0-083d-4b1c-8bcb-1759a4d37a89)
 
-#TDI
+## TDI
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/fff39046-94d7-437d-906f-5da1adb12a6d)
 
-#io
+## io
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/e2822364-f077-44c3-966e-8f0fdbafa542)
 
-#idn
+## idn
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/d5d3ce46-9b56-44dc-9d74-efca35895147)
 
-#gpl
-![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/d047939e-0f43-4f9e-aa47-a8a2461ddf2a)
+## gpl
+![Untitled](https://github.com/JoyenBenitto/pes_sort/assets/75515758/2102802a-436c-49f3-93e3-df5e97b007a9)
 
-#dpl
+## dpl
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9e13831d-e786-4eb4-ae2e-a85261513d18)
 
-#cts
+## cts
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9844dca4-fa08-4947-b799-984fd624fb7d)
 
-#crt
+## crt
 ![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9f4c268e-9bca-4669-b014-3fad361a3971)
+
+## grt
+![Untitled-1](https://github.com/JoyenBenitto/pes_sort/assets/75515758/96f5d259-5e61-43c2-9dc1-7e30c3bf96a9)
+
 
 The above are some of the intermediate files generated
 
 ## Detailed Routing
 
+> The optimizations takes some time so be patient when it runs
+
+![Untitled](https://github.com/JoyenBenitto/pes_sort/assets/75515758/5969ebeb-9f08-4a2c-82f6-20320af70f0f)
+
+# GDS
+![Untitled-1](https://github.com/JoyenBenitto/pes_sort/assets/75515758/5a758848-8915-42fc-9a05-7216e737f369)
