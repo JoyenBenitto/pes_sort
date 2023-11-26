@@ -39,3 +39,32 @@ gtkwave dump.vcd
 ![Alt text](image-2.png)
 
 > all the relevant files for replicating this design are available in this repo and the synthesis was carried our using Yosys design suite and skywater130
+
+## Floorplan
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/c6cd4cb0-083d-4b1c-8bcb-1759a4d37a89)
+
+#TDI
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/fff39046-94d7-437d-906f-5da1adb12a6d)
+
+#io
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/e2822364-f077-44c3-966e-8f0fdbafa542)
+
+#idn
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/d5d3ce46-9b56-44dc-9d74-efca35895147)
+
+#gpl
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/d047939e-0f43-4f9e-aa47-a8a2461ddf2a)
+
+#dpl
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9e13831d-e786-4eb4-ae2e-a85261513d18)
+
+#cts
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9844dca4-fa08-4947-b799-984fd624fb7d)
+
+#crt
+![image](https://github.com/JoyenBenitto/pes_sort/assets/75515758/9f4c268e-9bca-4669-b014-3fad361a3971)
+
+The above are some of the intermediate files generated
+
+## Detailed Routing
+
